@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1525741246 source:d:\alaniz federico nicolas\primerparcial\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1525737470 d:\alaniz federico nicolas\primerparcial\funciones.h
+
+1525739392 source:d:\alaniz federico nicolas\primerparcial\main.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526859191 source:c:\users\falaniz\desktop\primerparcial\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1526873492 c:\users\falaniz\desktop\primerparcial\funciones.h
+
+1526859287 source:c:\users\falaniz\desktop\primerparcial\main.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1526926512 source:c:\users\b041230\desktop\primerparcial-master\primerparcial-master\primerparcial\funciones.c
+	"funciones.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1526915640 c:\users\b041230\desktop\primerparcial-master\primerparcial-master\primerparcial\funciones.h
+
+1526915640 source:c:\users\b041230\desktop\primerparcial-master\primerparcial-master\primerparcial\main.c
+	"funciones.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
